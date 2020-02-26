@@ -8,9 +8,6 @@ body{
 
 h1 {Color: Black; margin: black;  
     background-color: darkslateblue;
-    grid-row: span 1;
-    grid-column: 1 / span 2;
-
 } 
 
 h2{

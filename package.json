@@ -1,0 +1,30 @@
+{
+  "name": "suppostiry",
+  "version": "1.0.0",
+  "description": "Serving up a Byte to Eat",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chcm97/Suppostiry.git"
+  },
+  "keywords": [
+    "Cash",
+    "money"
+  ],
+  "author": "Chcm97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chcm97/Suppostiry/issues"
+  },
+  "homepage": "https://github.com/Chcm97/Suppostiry#readme",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.17.1"
+  }
+}
