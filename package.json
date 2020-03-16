@@ -25,6 +25,7 @@
   "homepage": "https://github.com/Chcm97/Suppostiry#readme",
   "dependencies": {
     "expres": "0.0.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
   }
 }
